@@ -99,7 +99,7 @@ L<https://metacpan.org/pod/Acme::MyFirstModule::BDFOY>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2011-2018 brian d foy.
+Copyright 2011-2023 brian d foy.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
