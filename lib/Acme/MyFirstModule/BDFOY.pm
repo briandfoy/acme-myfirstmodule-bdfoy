@@ -4,6 +4,8 @@ use 5.006;
 use strict;
 use warnings;
 
+=encoding utf8
+
 =head1 NAME
 
 Acme::MyFirstModule::BDFOY - The great new Acme::MyFirstModule::BDFOY!
