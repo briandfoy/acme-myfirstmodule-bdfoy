@@ -110,6 +110,6 @@ jobs:
                 prerelease: false
                 name: ${{ steps.version.outputs.name }}
                 files: |
-                    ${{ env.ASSET_NAME }}
+                    ${{ env.GITHUB_WORKSPACE }}/${{ env.ASSET_NAME }}
                     ${{ steps.attestation.outputs.bundle-path }}
                 token: ${{ secrets.RELEASE_ACTION_TOKEN }}
