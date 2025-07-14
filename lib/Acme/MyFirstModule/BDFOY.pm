@@ -12,7 +12,7 @@ Acme::MyFirstModule::BDFOY - The great new Acme::MyFirstModule::BDFOY!
 
 =head1 VERSION
 
-Version 0.012
+Version 0.025
 
 =cut
 
